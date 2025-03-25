@@ -8,12 +8,17 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5821'
     url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: archival
+  image_path: 75475-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, Helen Beecher
     gutenberg_agent_id: '931'
     url: http://www.gutenberg.org/2009/agents/931
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75475#The-girl-he-left-behind
 gutenberg_issued: '2025-02-27'
 gutenberg_type: Text
 identifiers:
